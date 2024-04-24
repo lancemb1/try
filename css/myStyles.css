@@ -1,0 +1,21 @@
+h1{
+    color: white;
+}
+post-title{
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+    font-size: 33px;
+}
+h3{
+    font-style: italic;
+    font-size: 26px;
+}
+h4{
+    font-style: italic;
+    font-size: 25px;
+}
+.post-subtitle{
+    font-weight: normal;
+}
